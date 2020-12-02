@@ -36,6 +36,7 @@ Printing tips: When using pause print function, you must set the hot-bed at the 
 - The front is too heavy for my liking.
 Need to shaved off some part at the front.
 - The chin rest is too long.
+- Eyes at nose are too wide.
 - Fangs and the cheek bone/jaw bone overlap, result in the hinge hole doesn't aligned.
 
 **Changelogs**
