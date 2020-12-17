@@ -72,6 +72,7 @@ v0.1
     https://creativecommons.org/licenses/by-sa/3.0/
 
 ![Simple fursuit LED eyes and fan schematic](./fursuit_light_and_fan)
+----------------------
 
 ![Schematic](./fursuit_light_and_fan/fursuit_light_and_fan_schematic.png)
 
