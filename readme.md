@@ -71,6 +71,17 @@ v0.1
     Creative Commons - Attribution-ShareAlike
     https://creativecommons.org/licenses/by-sa/3.0/
 
+![Simple fursuit LED eyes and fan schematic](./fursuit_light_and_fan)
+
+![Schematic](./fursuit_light_and_fan/fursuit_light_and_fan_schematic.png)
+
+A simple fursuit LED eyes and fan schematic.
+
+**License**
+
+    Creative Commons - CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+    https://creativecommons.org/publicdomain/zero/1.0/
+
 Author
 ------
 
