@@ -9,12 +9,15 @@ This repository contain various free and open-source furry related materials tha
 ----------------------
 
 ![Rrawr](./skullcat/04_skullcat_fursuit_head_v0.2.png)
+
 Skull Cat fursuit head v0.2 model
 
 ![Finished print](./skullcat/03_IMG_20201118_224858_600.jpg)
+
 Finished print
 
 [![Moving jaw test](https://img.youtube.com/vi/nCF7k2U8QHU/0.jpg)](https://www.youtube.com/watch?v=nCF7k2U8QHU)
+
 v0.1 Moving jaw test
 
 This is my first fursuit head and first 3D printable object that I have design. The design is a semi realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head in future.
