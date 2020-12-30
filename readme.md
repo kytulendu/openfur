@@ -33,11 +33,17 @@ I use Cura to slice the model and print with Ender-5 Plus. You may have to re-me
 - Scale: Scale to fit your head
 - Infill Density: 20-30%
 - Support: Generate Support
-- Build Plate Adhesion Type: Raft (because the print keep deattach from the hot-bed in my case)
+- Build Plate Adhesion Type: Brim or Raft (I use Raft because the print keep deattach from the hot-bed in my case)
 
 Printing tips: When using pause print function, you must set the hot-bed at the print temperature (in my case using PLA, 60c) else the print will cool down and will deattached from the hot-bed.
 
 **Changelogs**
+
+v0.3
+
+- Fix ugly front teeth of top part.
+- Fix chin rest is too thin and too short.
+- Fix chin rest mesh that cause problems when slice the model.
 
 v0.2
 
