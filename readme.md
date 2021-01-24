@@ -8,9 +8,9 @@ This repository contain various free and open-source furry related materials tha
 ![Skull Cat fursuit head](./skullcat)
 ----------------------
 
-![Rrawr](./skullcat/04_skullcat_fursuit_head_v0.2.png)
+![Rrawr](./skullcat/05_skullcat_fursuit_head_v0.3.png)
 
-Skull Cat fursuit head v0.2 model
+Skull Cat fursuit head v0.3 model
 
 ![Finished print](./skullcat/03_IMG_20201118_224858_600.jpg)
 
@@ -18,7 +18,7 @@ Finished print
 
 [![Moving jaw test](https://img.youtube.com/vi/nCF7k2U8QHU/0.jpg)](https://www.youtube.com/watch?v=nCF7k2U8QHU)
 
-v0.1 Moving jaw test
+v0.1 Moving jaw test video
 
 This is my first fursuit head and first 3D printable object that I have design. The design is a semi realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head in future.
 
@@ -29,6 +29,8 @@ Using "Lion - Panthera leo By Lily Wilson" model as base, "3D human head scan by
 **Print Settings**
 
 I use Cura to slice the model and print with Ender-5 Plus. You may have to re-mesh the mesh before slice the model.
+
+Due to the fursuit head base have been design using my head size in mind, you will have to adjust/modify the model according to your head dimension before print.
 
 - Scale: Scale to fit your head
 - Infill Density: 20-30%
