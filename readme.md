@@ -20,9 +20,9 @@ Finished print
 
 v0.1 Moving jaw test video
 
-This is my first fursuit head and first 3D printable object that I have design. The design is a semi realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head in future.
+This is my first fursuit head and first 3D printable object that I have design. The design is a semi-realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head in future.
 
-Currently in printable prototype version.
+Currently in beta version.
 
 Using "Lion - Panthera leo By Lily Wilson" model as base, "3D human head scan by celer" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
 
@@ -40,6 +40,10 @@ Due to the fursuit head base have been design using my head size in mind, you wi
 Printing tips: When using pause print function, you must set the hot-bed at the print temperature (in my case using PLA, 60c) else the print will cool down and will deattached from the hot-bed.
 
 **Changelogs**
+
+v0.9
+
+- Wide up the mask a bit so it fit more comfortably to wearer.
 
 v0.3
 
