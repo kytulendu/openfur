@@ -90,6 +90,8 @@ v0.1
 
 A simple fursuit LED eyes and fan schematic.
 
+Note: If using fan, prefer using 12V battery pack or USB powerbank instread for longer battery life.
+
 **License**
 
     Creative Commons - CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
