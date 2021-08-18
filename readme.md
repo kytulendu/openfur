@@ -5,6 +5,12 @@
 
 This repository contain various free and open-source furry related materials that I made.
 
+Contents
+--------
+- ![Skull Cat fursuit head](./skullcat)
+- ![Fursuit claw](./fursuit_claw)
+- ![Simple fursuit LED eyes and fan schematic](./fursuit_light_and_fan)
+
 ![Skull Cat fursuit head](./skullcat)
 ----------------------
 
@@ -83,6 +89,25 @@ v0.1
     Creative Commons - Attribution-ShareAlike
     https://creativecommons.org/licenses/by-sa/3.0/
 
+![Fursuit claw](./fursuit_claw)
+----------------------
+
+![Screenshot](./fursuit_claw/screenshot_claw.png)
+
+3D printable fursuit claw for your fursuit handpaw.
+
+I use Cura to slice the model and print with Ender-5 Plus.
+
+Print settings
+- Scale: 10000%
+- Infill Density: 80%
+- Support: No
+
+**License**
+
+    Creative Commons - Attribution-ShareAlike
+    https://creativecommons.org/licenses/by-sa/3.0/
+
 ![Simple fursuit LED eyes and fan schematic](./fursuit_light_and_fan)
 ----------------------
 
@@ -90,7 +115,7 @@ v0.1
 
 A simple fursuit LED eyes and fan schematic.
 
-Note: If using fan, prefer using 12V battery pack or USB powerbank instread for longer battery life.
+Note: If using fan, prefer using 12V battery pack or USB powerbank instead for longer battery life.
 
 **License**
 
@@ -100,7 +125,7 @@ Note: If using fan, prefer using 12V battery pack or USB powerbank instread for 
 Author
 ------
 
-    Khralkatorrix 🐉🐅
+    Khralkatorrix
     GitHub: https://github.com/kytulendu
     Twitter: @rra_krr
     Weasyl: https://www.weasyl.com/~khral
