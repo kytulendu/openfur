@@ -102,6 +102,7 @@ Print settings
 - Scale: 10000%
 - Infill Density: 80%
 - Support: No
+- Build Plate Adhesion Type: Brim
 
 **License**
 
