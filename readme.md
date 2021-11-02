@@ -129,13 +129,19 @@ Note: If using fan, prefer using 12V battery pack or USB powerbank instead for l
 
 ![More complicated fursuit light and fan](./fursuit_light_fan_v2/fursuit_light_fan_v2.jpg)
 
+More complicated fursuit light and fan
+
 ![Assembled](./fursuit_light_fan_v2/fursuit_light_fan_v2_assembled.jpg)
+
+Assembled
 
 ![Schematic v2](./fursuit_light_fan_v2/fursuit_light_fan_v2_schematic.png)
 
+Schematic
+
 USB power bank powered fursuit LED eyes and PWM controlled fan.
 
-Modified from two 1$ "1.8-15V DC motor speed controller board", dummy load schematic idea is from [!Current Pulsing Keeps Power Bank Active by ajoyraman](https://www.instructables.com/Current-Pulsing-Keeps-Power-Bank-Active/)
+Modified from two 1$ "1.8-15V DC motor speed controller board", dummy load schematic idea is from ![Current Pulsing Keeps Power Bank Active by ajoyraman](https://www.instructables.com/Current-Pulsing-Keeps-Power-Bank-Active/)
 
 ![PWM controlled fan board](./fursuit_light_fan_v2/pwm_board.jpg)
 
