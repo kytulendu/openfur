@@ -160,7 +160,7 @@ This board generate 60mA pulsed current load for around 7 second on and 3 second
 I have desoldered potentiometer, two of the diodes connected to potentiometer, terminal, R7, D7, R1, R1, C1, C2, fuse and the diode connect to Motor+ and Motor- terminal, and resoldered the component from the schematics on to modified PCB.
 
 You may have to change R10 and R11 for the current of dummy load to match your power bank current sensing requirement, and you may have to adjust R3 for off timing and R4/R5 for on timing if it not work with your power bank or to optimize the dummy load to use even less power and more time to cool down.
-I also provide ![falstad's javascript electronic circuit simulator](http://www.falstad.com/circuit/) file for you to experiment on. ![simulation file](./fursuit_light_fan_v2/powerbank-always-on.circuitjs.txt)
+I also provide [falstad's javascript electronic circuit simulator](http://www.falstad.com/circuit/) file for you to experiment on. ![simulation file](./fursuit_light_fan_v2/powerbank-always-on.circuitjs.txt)
 
 Also, be mined tho, **the dummy load resistor (R10, R11) will get hot during it work.**
 
