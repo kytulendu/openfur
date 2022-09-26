@@ -27,7 +27,7 @@ Finished print
 
 v0.1 Moving jaw test video
 
-This is my first fursuit head and first 3D printable object that I have design. The design is a semi-realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head in future.
+This is my first fursuit head and first 3D printable object that I have design. The design is a semi-realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head.
 
 Currently in beta version.
 
@@ -46,7 +46,19 @@ Due to the fursuit head base have been design using my head size in mind, you wi
 
 Printing tips: When using pause print function, you must set the hot-bed at the print temperature (in my case using PLA, 60c) else the print will cool down and will deattached from the hot-bed.
 
+**Todo**
+
+This is todo list intended for Rrowl 2.0 fursuit, which the finish version will be release here as v1.0.
+
+- Reduce the head base weight by modify/redesign the nose area and thining some area.
+- Sperate fangs from the main model.
+- Glass eyes support.
+- Skull details.
+
 **Changelogs**
+
+v0.9.1
+- Make chin rest longer.
 
 v0.9
 
