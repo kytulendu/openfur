@@ -17,6 +17,7 @@ Author
 
     Khralkatorrix
     GitHub: https://github.com/kytulendu
+    Mastodon: @khralkatorrix@meow.social
     Twitter: @rra_krr
     Weasyl: https://www.weasyl.com/~khral
     FurAffinity: https://www.furaffinity.net/user/khral
