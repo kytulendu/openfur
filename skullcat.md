@@ -4,7 +4,7 @@
 
 Skull Cat fursuit head v0.3 model
 
-![Finished print](./skullcat/03_IMG_20201118_224858_600.jpg)
+![Finished print](./skullcat/03_skullcat_fursuit_head_v0.1_printed.jpg)
 
 Finished print
 
