@@ -1,12 +1,18 @@
 # Skull Cat fursuit head
 
-![Rrawr](./skullcat/05_skullcat_fursuit_head_v0.3.png)
+![Rrawr](./skullcat/07_skullcat_fursuit_head_v1.0.png)
 
-Skull Cat fursuit head v0.3 model
+Skull Cat fursuit head v1.0 model
 
-![Finished print](./skullcat/03_skullcat_fursuit_head_v0.1_printed.jpg)
+![Finished print](./skullcat/07_skullcat_fursuit_head_v1.0_printed.jpg)
 
-Finished print
+![Finished print side](./skullcat/07_skullcat_fursuit_head_v1.0_printed_side.jpg)
+
+Finished print example
+
+![Rrowl fursuit](./skullcat/07_skullcat_fursuit_head_v1.0_fursuit.jpg)
+
+Fursuit Example
 
 [![Moving jaw test](https://img.youtube.com/vi/nCF7k2U8QHU/0.jpg)](https://www.youtube.com/watch?v=nCF7k2U8QHU)
 
@@ -14,33 +20,42 @@ v0.1 Moving jaw test video
 
 This is my first fursuit head and first 3D printable object that I have design. The design is a semi-realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head.
 
-Currently in beta version.
-
-Using "Lion - Panthera leo By Lily Wilson" model as base, "3D human head scan by celer" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
+Using "Lion - Panthera leo By Lily Wilson" model as base, "Printable Mannequin Head with Shoulders by cudatoxis" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
 
 **Print Settings**
+
+Default fangs is normal one, if you want saber fangs option, edit boolean modifier of `lion_skull.top` model, from `fang.l` to `saber fang.r`.
 
 I use Cura to slice the model and print with Ender-5 Plus. You may have to re-mesh the mesh before slice the model.
 
 Due to the fursuit head base have been design using my head size in mind, you will have to adjust/modify the model according to your head dimension before print.
 
 - Scale: Scale to fit your head
+- Wall Line Count: 4
 - Infill Density: 20-30%
 - Support: Generate Support
-- Build Plate Adhesion Type: Brim or Raft (I use Raft because the print keep deattach from the hot-bed in my case)
+- Support Overhang Angle: ~42.0 or more, use support blocker to exclude some support positions that is not important.
+- Build Plate Adhesion Type: Brim or Raft
 
 Printing tips: When using pause print function, you must set the hot-bed at the print temperature (in my case using PLA, 60c) else the print will cool down and will deattached from the hot-bed.
 
 **Todo**
 
-This is todo list intended for Rrowl 2.0 fursuit, which the finish version will be release here as v1.0.
+This is todo list intended for Rrowl 2.0 fursuit.
 
-- Reduce the head base weight by modify/redesign the nose area and thining some area.
-- Sperate fangs from the main model.
+- Add fangs latch for easier assembly alignment.
+- Sperate all the teeth.
 - Glass eyes support.
-- Skull details.
 
 **Changelogs**
+
+v1.0
+- Make the top fangs a separate model.
+- Add both short and saber fangs options.
+- Adjustment on eyes shape.
+- Weight reduction by remake the nose portion.
+- Add second spring holes to jaw hinges.
+- Add some skull details.
 
 v0.9.1
 - Make chin rest longer.
@@ -74,13 +89,22 @@ v0.1
     License: Creative Commons - Attribution
     https://sketchfab.com/3d-models/lion-skull-40137a0152074a75a5661ffa24503b3d
 
+    Skull of Smilodon - Saber-Toothed Tiger3D Model by geolab.unilasalle
+    (Use only fangs mesh)
+    License: CC Attribution
+    https://sketchfab.com/3d-models/skull-of-smilodon-saber-toothed-tiger-840cea79937e45438d139a9d4061ab4d
+
     Resin Mask Jaw Hinge by gootartsis
     License: Creative Commons - Public Domain Dedication license.
     https://www.thingiverse.com/thing:2995558
 
-    3D human head scan by celer
+    3D human head scan by celer (used for head reference in old v0.x version)
     License: Creative Commons - Attribution
     https://www.thingiverse.com/thing:4245056
+
+    Printable Mannequin Head with Shoulders by cudatoxis (used for head reference for v1.0 or newer, not included in repo)
+    License: GNU - GPL
+    https://www.thingiverse.com/thing:4565947
 
 **License**
 
