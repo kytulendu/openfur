@@ -22,6 +22,8 @@ This is my first fursuit head and first 3D printable object that I have design. 
 
 Using "Lion - Panthera leo By Lily Wilson" model as base, "Printable Mannequin Head with Shoulders by cudatoxis" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
 
+[Download it here](https://github.com/kytulendu/openfur/tree/master/skullcat)
+
 **Print Settings**
 
 Default fangs is normal one, if you want saber fangs option, edit boolean modifier of `lion_skull.top` model, from `fang.l` to `saber fang.r`.
