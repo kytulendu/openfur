@@ -20,7 +20,7 @@ v0.1 Moving jaw test video
 
 This is my first fursuit head and first 3D printable object that I have design. The design is a semi-realistic skull cat mask, suitable for fursuit head, Halloween costume or cosplay. Intended as a base to modify into my fursona's fursuit head.
 
-Using "Lion - Panthera leo By Lily Wilson" model as base, "Printable Mannequin Head with Shoulders by cudatoxis" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
+Using "Lion - Panthera leo By Lily Wilson" 3d scan model as base, "Skull of Smilodon - Saber-Toothed Tiger3D Model by geolab.unilasalle" as saber fangs base, "Printable Mannequin Head with Shoulders by cudatoxis" model as head dimension reference and "Jaw Hinge by gootartsis" for the jaw hinge parts. Sculpt using Blender.
 
 [Download it here](https://github.com/kytulendu/openfur/tree/master/skullcat)
 
@@ -97,7 +97,7 @@ v0.1
 
     Skull of Smilodon - Saber-Toothed Tiger3D Model by geolab.unilasalle
     (Use only fangs mesh)
-    License: CC Attribution
+    License: Creative Commons - Attribution
     https://sketchfab.com/3d-models/skull-of-smilodon-saber-toothed-tiger-840cea79937e45438d139a9d4061ab4d
 
     Resin Mask Jaw Hinge by gootartsis
