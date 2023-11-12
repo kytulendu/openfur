@@ -22,3 +22,9 @@ Author
     Weasyl: https://www.weasyl.com/~khral
     FurAffinity: https://www.furaffinity.net/user/khral
     Discord: Khral#2914
+
+Donation
+--------
+If you like what I make here and/or find it useful for your fursuit project, consider to throw me a coin ^^
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/khralkatorrix)

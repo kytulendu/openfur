@@ -24,6 +24,10 @@ Using "Lion - Panthera leo By Lily Wilson" model as base, "Printable Mannequin H
 
 [Download it here](https://github.com/kytulendu/openfur/tree/master/skullcat)
 
+If you like what I make here and/or find it useful for your fursuit project, consider to throw me a coin ^^
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/khralkatorrix)
+
 **Print Settings**
 
 Default fangs is normal one, if you want saber fangs option, edit boolean modifier of `lion_skull.top` model, from `fang.l` to `saber fang.r`.
