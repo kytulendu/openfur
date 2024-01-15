@@ -24,6 +24,6 @@ Author
 
 Donation
 --------
-If you like what I make here and/or find it useful for your fursuit project, consider to throw me a coin ^^
+If you like what I make here and/or find it useful for your fursuit project, please consider to throw me a coin ^^
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/khralkatorrix)
